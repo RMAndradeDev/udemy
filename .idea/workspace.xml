@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c67249fd-a423-4828-afeb-895f657ad644" name="Changes" comment="se agregó el mensaje hola mundo">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/rulo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rulo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
